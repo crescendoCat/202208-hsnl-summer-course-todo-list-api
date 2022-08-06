@@ -1,0 +1,9 @@
+{
+  "name": "202208-hsnl-summer-course-todo-list-api",
+  "version": "1.0.0",
+  "description": "A simple api backend for example todo list react app",
+  "main": "index.js",
+  "author": "c.crescendo.cat@gmail.com",
+  "license": "MIT",
+  "private": false
+}
